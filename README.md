@@ -16,6 +16,6 @@ __Contact:__ For further requests, please contact me at rdn9177@gmail.com
 
 ## Embeddded Streamlit App
 
-<iframe src="<https://investigating-usda-branded-food-wk2tlfhnacwokpw5upl9ln.streamlit.app/?embed_options=dark_theme>" width="600" height="600">
+</iframe src="<https://investigating-usda-branded-food-wk2tlfhnacwokpw5upl9ln.streamlit.app/?embed_options=dark_theme>" width="600" height="600">
 </iframe>
 
