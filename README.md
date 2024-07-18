@@ -19,7 +19,7 @@ __Contact:__ For further requests, please contact me at rdn9177@gmail.com
 <html>
 <body>
 
-<iframe src="<[streamlit app address](https://investigating-usda-branded-food-wk2tlfhnacwokpw5upl9ln.streamlit.app/)>" width="600" height="600">
+<iframe src="<https://investigating-usda-branded-food-wk2tlfhnacwokpw5upl9ln.streamlit.app/>" width="600" height="600">
   <p>Your browser does not support iframes.</p>
 </iframe>
 
