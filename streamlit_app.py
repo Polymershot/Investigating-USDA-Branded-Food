@@ -90,7 +90,7 @@ def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
 
 
 #turn object dtype to cateogory for the function
-score_data = pd.read_csv('C:/Users/rdn91/OneDrive/Desktop/Coding/Python_Projects/usda_branded_foods/data/transformed_data/score_data.csv')
+score_data = pd.read_csv('./score_data.csv')
 obj_cols = score_data.select_dtypes(include="object").columns
 score_data[obj_cols] = score_data[obj_cols].astype("category")
 
