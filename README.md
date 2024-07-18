@@ -13,6 +13,5 @@ Further improvements I would make would be to use a better scoring model and loo
 
 __Contact:__ For further requests, please contact me at rdn9177@gmail.com
 
-<iframe src="https://investigating-usda-branded-food-wk2tlfhnacwokpw5upl9ln.streamlit.app/?embed_options=dark_theme" width="1200" height="600">
-  <p>Your browser does not support iframes.</p>
-</iframe>
+Streamlit Link: "https://investigating-usda-branded-food-wk2tlfhnacwokpw5upl9ln.streamlit.app/?embed_options=dark_theme" 
+ 
