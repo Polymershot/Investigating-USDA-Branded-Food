@@ -2,6 +2,8 @@
 
 To see a summary of the project, please view the summary folder. Regarding the source and transformations of the data, please view the sql_scripts and data directories. 
 
+Note: After revisiting this project, I completely overlooked the fact that some of the nutritional info is based on the whole package/container and not based on a 2,000 calorie diet. What this means is that some of the scores for the items will be misleading.
+
 ## Streamlit Link
 > "https://investigating-usda-branded-food-wk2tlfhnacwokpw5upl9ln.streamlit.app/?embed_options=dark_theme"
 
