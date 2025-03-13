@@ -2,7 +2,10 @@
 
 To see a summary of the project, please view the summary folder. Regarding the source and transformations of the data, please view the sql_scripts and data directories. 
 
-Note: After revisiting this project, I completely overlooked the fact that some of the nutritional info is based on the whole package/container and not based on a 2,000 calorie diet. What this means is that some of the scores for the items will be misleading. Also, I shouldn't have split up the notebook code because it is a complete mess. There should be a notebooks and scripts folder. The scriptw should contain the functions and the notebook should reference those functions at the very minimum. Some unit tests may be practical to make sure numbers make sense.
+Note: After revisiting this project, I completely overlooked the fact that some of the nutritional info is based on the whole package/container and not based on a 2,000 calorie diet. What this means is that some of the scores for the items will be misleading. 
+
+Also, I shouldn't have split up the notebook code because it is a complete mess. There should be a notebooks and scripts folder. The scriptw should contain the functions and the notebook should reference those functions at the very minimum. Some unit tests may be practical to make sure numbers make sense.
+
 ## Streamlit Link
 > "https://investigating-usda-branded-food-wk2tlfhnacwokpw5upl9ln.streamlit.app/?embed_options=dark_theme"
 
